@@ -1,9 +1,9 @@
 # ADVANCED-ENCRYPTION-TOOL
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: AKANSHA JADHAV
+NAME: VED CHINCHAY
 
-INTERN ID: CT04DR1398
+INTERN ID: CTIS7170
 
 DOMAIN: CYBERSECURITY AND ETHICAL HACKING
 
@@ -53,7 +53,8 @@ AES-GCM ensures both secrecy and tamper-proof security.
 PBKDF2 makes brute-force attacks slow.
 Salt + nonce must never repeat for the same key.
 Share the encrypted file and password separately.
-OUTPUT:<img width="1727" height="897" alt="519745438-dbb993b1-5983-45f7-8838-35177779f146" src="https://github.com/user-attachments/assets/1c3062a1-3c62-423a-9b88-f271232953f4" />
+
 
 advanced_encryption_tool.py Image
+OUTPUT:<img width="1727" height="897" alt="519745438-dbb993b1-5983-45f7-8838-35177779f146" src="https://github.com/user-attachments/assets/1c3062a1-3c62-423a-9b88-f271232953f4" />
 
